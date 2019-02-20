@@ -270,10 +270,12 @@ input{
   transition: .5s cubic-bezier(.49,.38,.44,1.5);
 }
 .score_box li{
+  align-content: center;
+  border: solid .1rem transparent;
   color: #fff;
-  font-size: 1.5rem;
+  display: grid;
+  font-size: 1.8rem;
   height: 4rem;
-  padding: 1rem 0;
 
 }
 .reset{

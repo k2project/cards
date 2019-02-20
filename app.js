@@ -72,7 +72,7 @@ class Card {
    }
    displayScoreBox() {
     //reset score box settings
-    this.scoreBoxUl.style.marginTop = '0px';
+    this.scoreBoxUl.style.marginTop = '0rem';
     this.scoreBoxUl.innerHTML = '';
      for( let a = 0; a<=this.scoreLi; a++){
       let li = document.createElement('li');
@@ -81,7 +81,7 @@ class Card {
      }
    }
    displayNewScore(score){
-    this.scoreBoxUl.style.marginTop = `-${score*40}px`;
+    this.scoreBoxUl.style.marginTop = `-${score*4}rem`;
    }
  }
 
