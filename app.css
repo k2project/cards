@@ -271,7 +271,6 @@ input{
 }
 .score_box li{
   align-content: center;
-  border: solid .1rem;
   color: #fff;
   display: grid;
   font-size: 1.8rem;
