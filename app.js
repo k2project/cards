@@ -321,7 +321,7 @@ class GameUI {
     //update storage
     localStorage.setItem( 'game-levels', JSON.stringify(this.levels));
     
-    const title ='CONGRATULATION!';
+    const title ='CONGRATULATIONS!';
     let subtitle ='';
     let anotherLevel = this.cardsDisplayed !== 15? 'Why not try another level now?' : 'Well done! Thank you for playing.';
     if(this.currentBest === Math.floor(this.cardsDisplayed/2)){
