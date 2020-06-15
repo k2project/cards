@@ -17,3 +17,14 @@ A simple React-based application to utilise my knowledge about the framework. Ma
 # Demo 
 
 Hosted with [Github Pages](https://k2project.github.io/cards/).
+
+# Available Scripts
+
+This project was bootstrapped with Create React App.
+
+In the project directory, you can run: npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+
