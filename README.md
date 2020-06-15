@@ -8,4 +8,4 @@ A simple React- based application to utilise my knowladge about the framework. M
 
 #Screenshot
 
-[Screnshot](https://k2project.github.io/portfolio/static/media/cards.7ba465aa.gif)
+![Screnshot](https://k2project.github.io/portfolio/static/media/cards.7ba465aa.gif)
