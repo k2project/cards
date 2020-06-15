@@ -22,7 +22,7 @@ Hosted with [Github Pages](https://k2project.github.io/cards/).
 
 This project was bootstrapped with Create React App.
 
-In the project directory, you can run: npm start
+In the project directory, you can run: ### npm start
 
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
