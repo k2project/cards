@@ -10,10 +10,10 @@ A simple React-based application to utilise my knowledge about the framework. Ma
 
 ![Screnshot](https://k2project.github.io/portfolio/static/media/cards.7ba465aa.gif)
 
-#Tech/frameworks used
+# Tech/frameworks used
 
 - React
 
 # Demo 
 
-Hosted with [Github Pages](https://k2project.github.io/cards/)
+Hosted with [Github Pages](https://k2project.github.io/cards/).
